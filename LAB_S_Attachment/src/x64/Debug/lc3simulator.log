@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\vscode\LAB_S_Attachment\src\main.cpp(21,34): warning C4129: “e”: 不可识别的字符转义序列
+  lc3simulator.vcxproj -> E:\vscode\LAB_S_Attachment\src\x64\Debug\lc3simulator.exe

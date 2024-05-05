@@ -1,0 +1,5 @@
+"D:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\vscode\LAB_S_Attachment -B E:\vscode\LAB_S_Attachment\cmake-build-debug
+-- Could NOT find Boost (missing: Boost_INCLUDE_DIR program_options) (Required is at least version "1.80.0")
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/vscode/LAB_S_Attachment/cmake-build-debug

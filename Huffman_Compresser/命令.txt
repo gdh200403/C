@@ -1,0 +1,14 @@
+(base) PS E:\vscode\Huffman_Compresser>  huffman -c -i testcase/3.USTC-logo.bmp -o compressed/3.USTC-logo.bmp.huff
+(base) PS E:\vscode\Huffman_Compresser> huffman -x -i compressed/3.USTC-logo.bmp.huff -o decompressed/3.USTC-logo.bmp
+(base) PS E:\vscode\Huffman_Compresser> huffman -x -i compressed/3.USTC-logo.bmp.huff -o decompressed/3.USTC-logo.bmp
+(base) PS E:\vscode\Huffman_Compresser> huffman -c -i testcase/2.hamlet.txt -o compressed/2.hamlet.txt.huff
+(base) PS E:\vscode\Huffman_Compresser> huffman -x -i compressed/2.hamlet.txt.huff -o decompressed/2.hamlet.txt
+(base) PS E:\vscode\Huffman_Compresser> huffman -x -i compressed/3.USTC-logo.bmp.huff -o decompressed/3.USTC-logo.bmp
+(base) PS E:\vscode\Huffman_Compresser> huffman -c -i testcase/1.MIT-license.txt -o compressed/1.MIT-license.txt.huff
+(base) PS E:\vscode\Huffman_Compresser> huffman -x -i compressed/1.MIT-license.txt.huff -o decompressed/1.MIT-license.txt
+(base) PS E:\vscode\Huffman_Compresser> huffman -c -i testcase/4.USTC-logo.png -o compressed/4.USTC-logo.png.huff
+(base) PS E:\vscode\Huffman_Compresser> huffman -x -i compressed/4.USTC-logo.png.huff -o decompressed/4.USTC-logo.png
+(base) PS E:\vscode\Huffman_Compresser> huffman -c -i testcase/5.data-structure.pdf -o compressed/5.data-structure.pdf.huff
+(base) PS E:\vscode\Huffman_Compresser> huffman -x -i compressed/5.data-structure.pdf.huff -o decompressed/5.data-structure.pdf       
+(base) PS E:\vscode\Huffman_Compresser> huffman -c -i testcase/6.MV.mp4 -o compressed/6.MV.mp4.huff
+(base) PS E:\vscode\Huffman_Compresser> huffman -x -i compressed/6.MV.mp4.huff -o decompressed/6.MV.mp4

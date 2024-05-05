@@ -1,0 +1,7 @@
+# ninja log v5
+0	206	7282124360593244	build.ninja	7a385068d581e4bc
+5	4148	7282117139890449	CMakeFiles/lc3simulator.dir/src/simulator.cpp.obj	6a48a9769da7daea
+13	4146	7282117139870451	CMakeFiles/lc3simulator.dir/src/memory.cpp.obj	a9cf3c6ad9b89c7f
+7	4146	7282117139860445	CMakeFiles/lc3simulator.dir/src/register.cpp.obj	c40320b9b22c6cd5
+9	4363	7282117142001210	CMakeFiles/lc3simulator.dir/src/main.cpp.obj	f5fb1c85ca08e0e8
+0	228	7282124360593244	build.ninja	7a385068d581e4bc
